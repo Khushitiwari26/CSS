@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+body{
+    font-family: "Playwrite GB S", cursive;
+}
+h1{
+    /* text-decoration: line-through;
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: wavy;
+    color:transparent;
+    text-shadow: 2px 2px 5px black; */
+
+    /* font-family: 'Times New Roman', Times, serif; */
+
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline red;
+    line-height: 2rem;
+    letter-spacing: 0.1rem;
+    word-spacing: 1rem;
+    
+      
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    font-weight:400;
+    font-style: italic;
+}
